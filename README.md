@@ -1,6 +1,7 @@
 # Money Heist World Clock
 
-A Flutter App that has awesomest UI to display Real World Time by Money Heist's Character Name .
+A Flutter App that has awesomest UI to display Real World Time by Money Heist's Character Name.
+Also Available on Playstore https://play.google.com/store/apps/details?id=com.ashinc.worldtime
 
 ## Getting Started
 
